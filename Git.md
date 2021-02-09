@@ -246,6 +246,30 @@ https://desktop.github.com/
 
 试着添加个文件
 
+![image-20210209124120680](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210209124120680.png)
+
+之后
+
+```
+左下角commit
+```
+
+```
+右上角publish
+```
+
+```
+右中侧Creat pull request是教你如何合并分支
+点击后由于只有一个分支，所以怎么搞都会卡在这
+
+```
+
+就会发布主分支master的第一个commit到github的服务器上
+
+之后每一次修改后来应用提交一下就会自动同步到github云端
+
+如果其它设备修改后提交到同一个分支，右上角就会变成
+
 
 
 
